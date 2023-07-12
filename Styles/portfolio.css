@@ -81,9 +81,12 @@ font-weight: 700;
 margin-top: 5px;}
 .banner-content{max-width: 500px;}
 /* main section styles */
+main{max-width: 1140px;margin : 0px auto;
+}
 /* about section style
  */
  .about{padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-margin: 130px;}
+margin: 130px 0px ;}
+.about-info-container{display: flex;justify-content: space-around;}
