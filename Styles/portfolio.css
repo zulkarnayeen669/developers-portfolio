@@ -90,3 +90,6 @@ main{max-width: 1140px;margin : 0px auto;
     background: #FFF8F3;
 margin: 130px 0px ;}
 .about-info-container{display: flex;justify-content: space-around;}
+#what-i-do-discription{
+    padding: 30px 150px;
+}
